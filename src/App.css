@@ -99,3 +99,7 @@ input::placeholder {
   height: 50px;
   cursor: pointer;
 }
+
+ul {
+  list-style: none;
+}
